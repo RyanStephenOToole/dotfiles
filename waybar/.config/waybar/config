@@ -218,7 +218,7 @@
 	
 	"clock": {
 		// "format": "{%l:%M %p %B %d }",
-		"format": "{:%I:%M %b %d}",
+		"format": "{:%I:%M %p %b %d}",
 		"tooltip-format": "<tt><small>{calendar}</small></tt>",
 		"calendar": {
 			"mode"             : "month",
